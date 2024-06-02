@@ -1,5 +1,6 @@
 RENCANA LIBURAN MIMI
 
 - Belajar coding
+  * Belajar laravel lagi
 - Baca buku
 - Bikin kue
